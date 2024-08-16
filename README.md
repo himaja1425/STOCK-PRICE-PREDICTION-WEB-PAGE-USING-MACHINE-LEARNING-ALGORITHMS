@@ -13,7 +13,7 @@ This project aims to develop a web application that predicts stock prices using 
 * User-friendly interface powered by Streamlit
   
 ##Technologies Used
-*Python
-*Machine Learning Algorithms
-*Streamlit
-*Yahoo Finance (for dataset collection)
+* Python
+* Machine Learning Algorithms
+* Streamlit
+* Yahoo Finance (for dataset collection)
